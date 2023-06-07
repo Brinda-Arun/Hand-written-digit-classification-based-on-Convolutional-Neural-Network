@@ -15,9 +15,7 @@ recall matrix, and F1 score.
 
 **Functionality **
 
-1.Importing the necessary libraries:
-
-torch, torch.nn, torch.optim, torchvision.transforms: PyTorch modules for building and training neural networks.
+1.Importing the necessary libraries: torch, torch.nn, torch.optim, torchvision.transforms: PyTorch modules for building and training neural networks.
 sklearn.metrics: Scikit-learn library for evaluating classification metrics.
 Dataset and DataLoader from torch.utils.data: Classes for creating custom datasets and data loaders.
 Checking the availability of a GPU and setting the device:
